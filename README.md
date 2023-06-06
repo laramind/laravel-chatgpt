@@ -1,4 +1,4 @@
-# Laravel boilerplate
+# Laravel ChatGPT
 
 This is a simple Docker configuration with nginx, php-fpm and MySql.
 
